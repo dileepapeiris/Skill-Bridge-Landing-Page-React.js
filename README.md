@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/TwgfwhpJ/skillbridge-react-js.png" alt="project-screenshot" width="1100" height="500/">
+<img src="https://i.postimg.cc/TwgfwhpJ/skillbridge-react-js.png" alt="project-screenshot" width="1100" height="450/">
 
-<img src="https://i.postimg.cc/3rj3Q4MK/image-2.png" alt="project-screenshot" width="1100" height="500/">
+<img src="https://i.postimg.cc/3rj3Q4MK/image-2.png" alt="project-screenshot" width="1100" height="450/">
 
   
   
